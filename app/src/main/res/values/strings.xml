@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SolicitudesHttp</string>
+    <string name="validar_red">Validar red</string>
+    <string name="solicitud_http">Solicitud Http nativa</string>
+    <string name="solicitud_http_volley">Solicitud http Volley</string>
+    <string name="solicitud_http_ok">Solicitud http OKHttp</string>
+    <string name="msj_info">Los resultados se muestran en el Logcat</string>
+</resources>
