@@ -8,3 +8,9 @@ Nota: Verificar que en el AndroidManifest.xml esten declarados los siguientes pe
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
 <uses-permission android:name="android.permission.INTERNET"></uses-permission>
 ```
+
+Las librerias utilizadas soon
+```
+implementation 'com.android.volley:volley:1.1.0'
+implementation 'com.squareup.okhttp3:okhttp:3.6.0'
+```
